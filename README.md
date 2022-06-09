@@ -1,4 +1,4 @@
-### Hi, i'm wesley and also known as perfect code 👋
+### Hi, i'm Wesley Almeida, nice to meet you 👋
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Codigoperfeito)
 [![Github](https://img.shields.io/github/followers/codigoperfeito?label=Follow&style=social)](https://github.com/codigoperfeito)
