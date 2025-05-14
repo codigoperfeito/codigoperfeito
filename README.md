@@ -1,11 +1,8 @@
 # 👋 Olá! Eu sou Wesley Almeida!
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou o criador do **[CodigoPerfeito](https://codigoperfeito.com.br)**, um site dedicado a **educação e aprendizado de desenvolvimento web**. Aqui, compartilho tutoriais, dicas e projetos voltados para programação e tecnologias como **React**, **Node.js**, **Flutter**, **JavaScript**, **PHP**, **Python** e muito mais. 🚀
+Bem-vindo(a) ao meu perfil no GitHub! 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Codigoperfeito)  
-[![Github](https://img.shields.io/github/followers/codigoperfeito?label=Follow&style=social)](https://github.com/codigoperfeito)
-
----
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Codigoperfeito) [![Github](https://img.shields.io/github/followers/codigoperfeito?label=Follow&style=social)](https://github.com/codigoperfeito)
 
 ## 🚀 Sobre mim
 - 🔭 **Atualmente**, estou trabalhando em **projetos privados** e na produção de conteúdo para o **[CodigoPerfeito](https://codigoperfeito.com.br)**.  
@@ -13,14 +10,14 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou o criador do **[CodigoPerfeito](https:
 - 👯 **Buscando colaborar** com outros criadores de conteúdo e desenvolvedores em:
   - [YouTube - @codigoperfeito](https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ)  
   - [CodePen - CodigoPerfeito](https://codepen.io/codigoperfeito)  
-  - **[CodigoPerfeito](https://codigoperfeito.com.br)** - O site para quem quer aprender de forma prática e dinâmica.  
+  - **[CodigoPerfeito](https://codigoperfeito.com.br)** - O site para quem quer me encontrar.  
 - 🤔 Sempre em busca de boas recomendações de **livros**, **artigos** e **documentações** sobre tecnologia e desenvolvimento.  
 - 💬 Me pergunte sobre **React**, **JavaScript**, **Desenvolvimento Web** e **Boas práticas de código**.  
 - 📫 Como me encontrar:
   - [Twitter: @WesleyStriker](https://twitter.com/wesleystriker)  
   - **Email**: obilhao@gmail.com  
 - 😄 **Pronomes**: **Ele/Dele**  
-- ⚡ **Curiosidade**: **Passo quase 12 horas por dia ouvindo música e tomando café ☕.**
+- ⚡ **Curiosidade**: **Passo quase 5 horas por dia codando e tomando café ☕.**
 
 ---
 
