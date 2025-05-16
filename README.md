@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub!
 
 ## 🚀 Sobre mim
 - 🔭 **Atualmente**, estou trabalhando em **projetos privados** e na produção de conteúdo para o **[CodigoPerfeito](https://codigoperfeito.com.br)**.  
-- 🌱 **Aprendendo** sempre mais sobre **React**, **Flutter** e **Node** **PHP** .  
+- 🌱 **Aprendendo** sempre mais sobre **React**, **Flutter**, **Node** e **PHP** para o backend.  
 - 👯 **Buscando colaborar** com outros criadores de conteúdo e desenvolvedores em:
   - [YouTube - @codigoperfeito](https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ)  
   - [CodePen - CodigoPerfeito](https://codepen.io/codigoperfeito)  
