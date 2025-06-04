@@ -1,43 +1,10 @@
 # 👋 Olá! Eu sou Wesley Almeida!
 
-Bem-vindo(a) ao meu perfil no GitHub! 
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Codigoperfeito) [![Github](https://img.shields.io/github/followers/codigoperfeito?label=Follow&style=social)](https://github.com/codigoperfeito)
-
-## 🚀 Sobre mim
-- 🔭 **Atualmente**, estou trabalhando em **projetos privados** e na produção de conteúdo para o **[CodigoPerfeito](https://codigoperfeito.com.br)**.  
-- 🌱 **Aprendendo** sempre mais sobre **React**, **Flutter**, **Node** e **PHP** para o backend.  
-- 👯 **Buscando colaborar** com outros criadores de conteúdo e desenvolvedores em:
-  - [YouTube - @codigoperfeito](https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ)  
-  - [CodePen - CodigoPerfeito](https://codepen.io/codigoperfeito)  
-  - **[CodigoPerfeito](https://codigoperfeito.com.br)** - O site para quem quer me encontrar.  
-- 🤔 Sempre em busca de boas recomendações de **livros**, **artigos** e **documentações** sobre tecnologia e desenvolvimento.  
-- 💬 Me pergunte sobre **React**, **JavaScript**, **Desenvolvimento Web** e **Boas práticas de código**.  
-- 📫 Como me encontrar:
-  - [Twitter: @WesleyStriker](https://twitter.com/wesleystriker)  
-  - **Email**: obilhao@gmail.com  
-- 😄 **Pronomes**: **Ele/Dele**  
-- ⚡ **Curiosidade**: **Passo quase 5 horas por dia codando e tomando café ☕.**
+Bem-vindo(a) ao meu perfil no GitHub! 🚀  
 
 ---
 
-## 🌟 Minhas estatísticas no GitHub
-
-<p align="center">
-  <!-- Estatísticas de Contribuição -->
-  <img src="https://github-readme-stats.vercel.app/api?username=codigoperfeito&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-</p>
-
-<p align="center">
-  <!-- Gráfico de Sequência -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigoperfeito&theme=radical" alt="Sequência de Contribuições">
-</p>
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Linguagens & Tecnologias
+### Tecnologias que uso:
 
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-FFEB3B?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
@@ -58,25 +25,49 @@ Bem-vindo(a) ao meu perfil no GitHub!
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
 </div>
 
----
+## 🌟 Estatísticas e Tecnologias
 
-## 💡 Vamos conectar?
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codigoperfeito&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigoperfeito&theme=radical" alt="Sequência de Contribuições">
+</p>
 
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ">
-    <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://twitter.com/wesleystriker">
-    <img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://codepen.io/codigoperfeito">
-    <img src="https://img.shields.io/badge/-CodePen-black?style=for-the-badge&logo=CodePen&logoColor=white" alt="CodePen">
-  </a>
-  <a href="https://codigoperfeito.com.br">
-    <img src="https://img.shields.io/badge/-CodigoPerfeito-blue?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="CodigoPerfeito">
-  </a>
-</div>
+
 
 ---
 
-🎉 Obrigado(a) pela visita ao meu perfil! Fique à vontade para explorar meus repositórios, visitar meu site **[CodigoPerfeito](https://codigoperfeito.com.br)** e entrar em contato comigo. Vamos criar algo incrível juntos! 🚀
+## 🚀 Sobre Mim
+
+Sou **Wesley Almeida**, desenvolvedor **Full Stack** apaixonado por criar soluções elegantes para problemas complexos. Especializado em construir aplicações web responsivas e amigáveis ao usuário utilizando tecnologias modernas.
+
+🎓 **Formação Acadêmica**:  
+- **Bacharelado em Ciência da Computação** (em andamento) pela Universidade Estácio de Sá (2020 - 2025).
+
+🛠️ **Habilidades Técnicas**:
+- **Frontend**: JavaScript, React, Next.js, TailwindCSS, Bootstrap
+- **Backend**: Node.js, NestJS, PHP, MySQL, MongoDB
+- **Mobile**: Flutter, Dart
+- **Outras Tecnologias**: Docker, Git, Linux
+
+📚 **Certificações**:
+- Análise e Soluções de Problemas Complexos
+- Programação para Internet
+- Concepção de Algoritmos e Sistemas Escaláveis
+- Gerência, Organização e Recuperação das Informações
+
+💼 **Experiência Profissional**:
+- Desenvolvimento de projetos full-stack com API REST utilizando Node.js, NestJS, Prisma e SQLite.
+- Criação de interfaces modernas com Next.js e TailwindCSS.
+- Desenvolvimento de aplicações mobile com Flutter e Dart.
+- Projetos de automação utilizando Arduino e C.
+
+📫 **Como me encontrar**:
+- 🌐 [CodigoPerfeito](https://codigoperfeito.com.br)
+- 📧 Email: obilhao@gmail.com
+- 🐦 Twitter: [@WesleyStriker](https://twitter.com/wesleystriker)
+- 📺 YouTube: [CodigoPerfeito](https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ)
+
+---
+
+🎉 Explore meus projetos e entre em contato para criarmos algo incrível juntos! 🚀
+
