@@ -25,15 +25,6 @@ Bem-vindo(a) ao meu perfil no GitHub! 🚀
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
 </div>
 
-## 🌟 Estatísticas e Tecnologias
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codigoperfeito&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigoperfeito&theme=radical" alt="Sequência de Contribuições">
-</p>
-
-
-
 ---
 
 ## 🚀 Sobre Mim
@@ -66,6 +57,15 @@ Sou **Wesley Almeida**, desenvolvedor **Full Stack** apaixonado por criar soluç
 - 📧 Email: obilhao@gmail.com
 - 🐦 Twitter: [@WesleyStriker](https://twitter.com/wesleystriker)
 - 📺 YouTube: [CodigoPerfeito](https://www.youtube.com/channel/UCTWnlBATwfYnz8rRWNeX1cQ)
+
+---
+
+## 🌟 Estatísticas e Tecnologias
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codigoperfeito&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codigoperfeito&theme=radical" alt="Sequência de Contribuições">
+</p>
 
 ---
 
