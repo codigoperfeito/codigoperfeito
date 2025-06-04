@@ -32,7 +32,7 @@ Bem-vindo(a) ao meu perfil no GitHub! 🚀
 Sou **Wesley Almeida**, desenvolvedor **Full Stack** apaixonado por criar soluções elegantes para problemas complexos. Especializado em construir aplicações web responsivas e amigáveis ao usuário utilizando tecnologias modernas.
 
 🎓 **Formação Acadêmica**:  
-- **Bacharelado em Ciência da Computação** (em andamento) pela Universidade Estácio de Sá (2020 - 2025).
+- **Bacharelado em Ciência da Computação**
 
 🛠️ **Habilidades Técnicas**:
 - **Frontend**: JavaScript, React, Next.js, TailwindCSS, Bootstrap
